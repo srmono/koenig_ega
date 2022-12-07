@@ -1,0 +1,11 @@
+UserName	Password		Url_Security
+MSS1		Passw0rd*90		https://seclabs.kspl.net/ui
+MSS2		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS3		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS4		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS5		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS6		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS7		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS8		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS9		Pass@wd@#		https://seclabs.kspl.net/ui
+MSS10		Pass@wd@#		https://seclabs.kspl.net/ui
